@@ -1,0 +1,14 @@
+.footer-container{
+    background-image: linear-gradient(salmon,violet,lightblue,white);
+    height: 500px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.social-media-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
